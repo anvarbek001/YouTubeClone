@@ -21,7 +21,6 @@
     "react-dom": "^18.2.0",
     "react-lorem-ipsum": "^1.4.10",
     "react-player": "^3.3.1",
-    "react-render-html": "^0.6.0",
     "react-router-dom": "^7.7.1"
   },
   "devDependencies": {
